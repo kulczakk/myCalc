@@ -62,7 +62,7 @@ $count++;
         ?>
     </aside>
     <div id="form">
-    <form action="index2.php" method="post">
+    <form action="index.php" method="post">
      <header><h2>Wypełnij i zapisz</h2></header>  
      <input type="text" name="form_tytul" placeholder="Tytuł wiadomosci"><br>
      <textarea name="form_tresc" cols="80" rows="10" placeholder="Tresć wiadomosci"></textarea><br>
